@@ -34,7 +34,7 @@ To compile, use this command:
 $ > make
 ```
 
-You can start the program by using this command where $(LIBNAME) is the name of the graphics library used or the name of the game.
+You can start the program by using this command where $(LIBNAME) is the name of the graphics library used or the name of the game. Then, you'll have to make a choice in the menu.
 
 ```sh
 $ > ./arcade ./lib/lib_arcade_$(LIBNAME).so
