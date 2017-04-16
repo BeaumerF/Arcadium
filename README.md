@@ -24,6 +24,12 @@ Games and GUIs are in dynamicly loaded libraries and work only with a core.
   - openGL
 
 ## How to run ?
+To compile, use this command:
+
+```sh
+$ > make
+```
+
 You can start the program by using this command where $(LIBNAME) is the name of the graphics library used or the name of the game.
 
 ```sh
