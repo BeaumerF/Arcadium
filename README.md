@@ -1,7 +1,11 @@
+![logo](./img/logo.png)
+
 # Arcade
 Arcade is a gaming platform which includes 2 games and which is able to run 3 different GUIs.
 
-![logo](./img/logo.png)
+![snake](./img/snake.png)
+![desc](./img/description.png)
+![pacman](./img/pac.png)
 
 ## What does it use?
   - Ncurses
