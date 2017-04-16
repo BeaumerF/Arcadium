@@ -1,7 +1,7 @@
 ![logo](./img/logo.png)
 
-# Arcade
-Arcade is a gaming platform which includes 2 games and which is able to run 3 different GUIs.
+# Arcadium
+Arcadium is a gaming platform which includes 2 games and which is able to run 3 different GUIs.
 
 ![snake](./img/snake.png)
 ![desc](./img/description.png)
